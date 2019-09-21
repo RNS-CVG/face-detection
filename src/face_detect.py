@@ -2,7 +2,7 @@ import cv2
 import sys
 
 
-def detect_func():
+def detect_function():
     face_cascade = cv2.CascadeClassifier("h1.xml")
     eye_cascade = cv2.CascadeClassifier("h2.xml")
     x=int(input("Enter 1 for image,2 for camera capture and 3 for video file"))
