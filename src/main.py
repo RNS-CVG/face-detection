@@ -1,3 +1,3 @@
-from face_detect import detect_function
+from face_detect import detect_func()
 
-detect_function() #calling function to recognize the face in the image
+detect_func() #calling function to recognize the face in the image
