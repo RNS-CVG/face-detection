@@ -38,10 +38,21 @@
 ### Prerequisites
 What things you need to install the software and how to install them:
 ```
-Give steps to install libraries
+1.Download Anaconda Navigator with Anaconda prompt
+2.Open Anaconda Prompt
+3.Install python 3.6 using command conda install python=3.6
+4.Install OpenCV library using command pip install opencv-python
+5.Install VScode editor using the Anaconda GUI interface.
+6.Create a .py file to run the python program.
+7.Debug and Run the program.
 ```
 ### Running the Code
 What commands and how are they used to run the code.
 ```
 python main.py
 ```
+
+Mohith.M
+1RN17CS053
+CSE
+8073464935
