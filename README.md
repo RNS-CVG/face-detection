@@ -52,7 +52,7 @@ What commands and how are they used to run the code.
 python main.py
 ```
 
-Mohith.M
-1RN17CS053
+Ankit Dwivedi
+1RN17CS014
 CSE
-8073464935
+9044782615
