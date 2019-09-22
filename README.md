@@ -51,8 +51,3 @@ What commands and how are they used to run the code.
 ```
 python main.py
 ```
-
-Ankit Dwivedi
-1RN17CS014
-CSE
-9044782615
