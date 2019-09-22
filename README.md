@@ -51,8 +51,3 @@ What commands and how are they used to run the code.
 ```
 python main.py
 ```
-
-Mohith.M
-1RN17CS053
-CSE
-8073464935
